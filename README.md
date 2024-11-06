@@ -1,2 +1,2 @@
-# STM32F4
- CourseBasic
+# STM32F407VET6 FULL
+ Below is the code package for the STM32F407VET, which includes modules for GPIO, CANBUS, I2C, RTC, DS3231, INTERRUPT, SYSTICK, and more. You are encouraged to download it to utilize these resources effectively. This comprehensive collection is designed to assist developers in building and implementing embedded systems with ease, leveraging the robust capabilities of the STM32F407VET microcontroller. By using this code base, you can accelerate your development process, improve efficiency, and gain valuable insights into handling various embedded functionalities.
